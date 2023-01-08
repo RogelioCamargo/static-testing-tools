@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
     "noEmit": true,
-    "baseUrl": "/src"
+    "baseUrl": "./src"
   }
 }
